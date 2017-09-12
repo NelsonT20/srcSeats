@@ -1,0 +1,21 @@
+header {
+    height: 100px;
+    border: 1px solid black;
+}
+
+.title {
+    font-size: 25px;
+    padding: 10px;
+    align-content: center;
+    justify-content: center;
+}
+
+.seat{
+    width: 90px;
+    height: 90px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    background-color: #0CB607;
+}
